@@ -4,5 +4,5 @@ This repository stores the documentation for our CSE110SP21 Bullet Journal proje
 
 ## Documentation
 
-[Front end ](./frontend/index.html)
+[Front end](https://cse110-sp21-group29.github.io/docs/frontend/index.html)
 
